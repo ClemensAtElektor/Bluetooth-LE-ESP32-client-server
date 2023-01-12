@@ -11,4 +11,4 @@ Required libraries:
 - Adafruit Unified Sensor
 - U8g2
 
-For explanations how all this is supposed to be used, see this [video](https://www.youtube.com/@ElektorTV) (placeholder, search this channel)
+For explanations how all this is supposed to be used, watch this [video](https://youtu.be/gvxqg0vxhrQ) (if the link doesn't work, search [Elektor TV](https://www.youtube.com/@ElektorTV))
